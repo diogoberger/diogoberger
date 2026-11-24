@@ -41,6 +41,12 @@ An API that turns HTML into a PDF in one call. For developers who need invoices,
 
 Most of my other code is private: Selo Club itself, three client websites that are live and taking customers, and the internal tools I build at work.
 
+## Where I've done the work
+
+<img src="assets/path.svg" alt="Career path. 2021: retail at Mr. Blue. 2022: logistics at Dingoo. 2023: solar at Otovo. 2024: energy at Synertics. 2025 to today: education and AI at Nova SBE. Five industries since 2021, each move one step closer to technology." width="100%">
+
+Each time I walked into a business I did not know, learned how it worked and delivered inside it within months. At Otovo that meant 130+ residential solar deployments across the German and Portuguese markets, with up to 50 live at once.
+
 ## AI at work
 
 At Nova SBE I mapped the processes of three teams, chose the use cases with them and built **five internal tools they now use every day**. One replaced a separate spreadsheet for every academic year with a single dashboard. Another turned a payments workbook into one tool with built-in rule checks.
